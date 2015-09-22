@@ -9606,7 +9606,7 @@
       </availableFormats>
       <generalDesc>
         <nationalNumberPattern>[1-9]\d{6,10}</nationalNumberPattern>
-        <possibleNumberPattern>\d{5,11}</possibleNumberPattern>
+        <possibleNumberPattern>\d{5,12}</possibleNumberPattern>
       </generalDesc>
       <fixedLine>
         <!-- Area codes taken from wikipedia, with missing ones added from
